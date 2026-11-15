@@ -25,3 +25,9 @@ Projeto **C06 – B** (Inatel). A aplicação simula o envio de mensagens entre 
 * **Ferramenta utilizada:** Google Gemini (modelo Hydrogen).
 * **Como foi utilizada:** A ferramenta foi utilizada para auxiliar na concepção inicial de ideias voltadas à área de redes/telecomunicações, na revisão e depuração do código escrito em Java e na geração da sintaxe do diagrama UML.
 * **Registro da conversa:** [Acessar histórico do chat](https://share.gemini.google/L5zDUgtJ2IXi))
+
+## Diagrama UML
+O diagrama abaixo representa a estrutura de classes,
+seus relacionamentos, atributos e métodos.
+
+![Diagrama UML](docs/diagrama-uml.png)
