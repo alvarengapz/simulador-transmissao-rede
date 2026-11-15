@@ -21,7 +21,6 @@ Projeto desenvolvido para a disciplina **C06 – Programação Orientada a Objet
 
 ## Declaração de Uso de Inteligência Artificial
 
-* **Utilizou IA?** Sim.
 * **Ferramenta utilizada:** Google Gemini (modelo Hydrogen).
 * **Como foi utilizada:** A ferramenta foi utilizada para auxiliar na concepção inicial de ideias voltadas à área de redes/telecomunicações e para apoiar na montagem e organização da estrutura do código em Java.
 * **Registro da conversa:** [Acessar histórico do chat](COLE_AQUI_O_LINK_DO_SEU_CHAT)
