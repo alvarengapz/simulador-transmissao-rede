@@ -15,7 +15,7 @@ Projeto **C06 – B** (Inatel). A aplicação simula o envio de mensagens entre 
 ## Declaração de Uso de Inteligência Artificial
 
 * **Ferramenta utilizada:** Google Gemini (modelo Hydrogen).
-* **Como foi utilizada:** A ferramenta foi utilizada para auxiliar na concepção inicial de ideias voltadas à área de redes/telecomunicações, na revisão e depuração do código escrito em Java e na geração da sintaxe do diagrama UML.
+* **Como foi utilizada:** A ferramenta foi utilizada para auxiliar com ideias voltadas à área de redes/telecomunicações e na revisão do código escrito em Java, também a geração da sintaxe do diagrama UML.
 * **Registro da conversa:** [Acessar histórico do chat](https://share.gemini.google/L5zDUgtJ2IXi)
 
 ## Diagrama UML
