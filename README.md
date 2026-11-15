@@ -12,14 +12,6 @@ Projeto **C06 – B** (Inatel). A aplicação simula o envio de mensagens entre 
 | Ruan Carlo Martins Garcia | Engenharia de Software (GES) | 497 |
 | Tales Costa Pignata Nobre Vilela | Engenharia de Computação (GEC) | 2102 |
 
-## Estrutura do Projeto
-
-* **`src/br/inatel/rede/Main.java`**: Classe principal responsável por instanciar as estações e os transmissores, realizar os envios polimórficos e tratar exceções.
-* **`src/br/inatel/rede/estacao/Estacao.java`**: Representa os nós (estações de origem e destino) da rede.
-* **`src/br/inatel/rede/historico/HistoricoTransmissoes.java`**: Gerencia a gravação e a leitura das mensagens transmitidas no arquivo `historico_transmissoes.txt`.
-* **`src/br/inatel/rede/transmissor/`**: Contém a classe abstrata `Transmissor`, as subclasses `TransmissorViaFibra` e `TransmissorViaRadio`, a interface `Criptoface` e a exceção `MensagemExcecao`.
-* **`diagrama-uml.png`**: Diagrama de classes UML completo da solução.
-
 ## Declaração de Uso de Inteligência Artificial
 
 * **Ferramenta utilizada:** Google Gemini (modelo Hydrogen).
