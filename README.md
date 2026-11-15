@@ -1,6 +1,7 @@
 # Simulador de Transmissão de Mensagens em Rede
 
 Projeto **C06 – B** (Inatel). A aplicação simula o envio de mensagens entre estações de uma rede de telecomunicações utilizando diferentes meios físicos de transmissão (**Fibra Óptica** e **Rádio**), aplicando conceitos de herança, polimorfismo, classes abstratas, interfaces, tratamento de exceções personalizadas e persistência de histórico em arquivo `.txt`.
+(OBS: Exceto 'Threads', uma vez que foi desconsiderado na ativadade!
 
 ## Integrantes do Grupo
 
