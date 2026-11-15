@@ -1,6 +1,6 @@
 # Simulador de Transmissão de Mensagens em Rede
 
-Projeto desenvolvido para a disciplina **C06 – Programação Orientada a Objetos** (Inatel). A aplicação simula o envio de mensagens entre estações de uma rede de telecomunicações utilizando diferentes meios físicos de transmissão (**Fibra Óptica** e **Rádio**), aplicando conceitos de herança, polimorfismo, classes abstratas, interfaces, tratamento de exceções personalizadas e persistência de histórico em arquivo `.txt`.
+Projeto **C06 – B** (Inatel). A aplicação simula o envio de mensagens entre estações de uma rede de telecomunicações utilizando diferentes meios físicos de transmissão (**Fibra Óptica** e **Rádio**), aplicando conceitos de herança, polimorfismo, classes abstratas, interfaces, tratamento de exceções personalizadas e persistência de histórico em arquivo `.txt`.
 
 ## Integrantes do Grupo
 
