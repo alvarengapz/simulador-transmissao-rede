@@ -30,4 +30,4 @@ Projeto **C06 – B** (Inatel). A aplicação simula o envio de mensagens entre 
 O diagrama abaixo representa a estrutura de classes,
 seus relacionamentos, atributos e métodos.
 
-![Diagrama UML](docs/diagrama-uml.png)
+![Diagrama UML](docs/diagrama-uml-transmissao-C06.png)
